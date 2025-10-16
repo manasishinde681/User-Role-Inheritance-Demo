@@ -1,4 +1,4 @@
-public class practicebubble{
+public class bubbleSorting{
 
     public static void bubbleSort(int arr[]){
         for(int i=0; i<arr.length-1; i++){
@@ -24,4 +24,5 @@ public class practicebubble{
         bubbleSort(arr);
         printArr(arr);
     }
+
 }
